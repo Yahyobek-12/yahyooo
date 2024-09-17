@@ -7,12 +7,16 @@ module.exports = {
     extend: {
       screens: {
         'ss': '400px',
-        'sm': '640px',   // Small devices (phones)
-        'md': '768px',   // Medium devices (tablets)
-        'lg': '1042px',  // Large devices (laptops/desktops)
-        'xl': '1280px',  // Extra large devices (large laptops/desktops)
-        '2xl': '1536px', // Extra extra large devices (larger screens)
+        'sm': '640px',   
+        'md': '768px',  
+        'lg': '1042px',  
+        'xl': '1280px',  
+        '2xl': '1536px', 
       },
+      colors: {
+        'greens': "#00CEA0",
+        'kok': '#00A4A5'
+      }
     },
   },
   plugins: [],

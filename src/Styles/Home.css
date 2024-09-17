@@ -46,3 +46,8 @@
 #projects-card:last-child:hover a {
     transform: scale(110%);
 }
+
+.community {
+    overflow: hidden;
+    background-size: cover;
+}
