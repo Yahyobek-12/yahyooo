@@ -10,7 +10,7 @@ const HSec4 = () => {
         </div>
         <h3 className='text-center mt-5 uppercase sm:text-3xl text-xl font-bold'>tell me about your next project</h3>
         <div className='flex mt-8 w-[100%] justify-evenly'>
-          <Link to="/" className='py-3 px-6 bg-gradient-to-tl from-greens to-kok border-b-2 border-slate-500 text-white rounded-lg hover:opacity-85'>Telegram</Link>
+          <Link to="/" className='py-3 px-6 bg-gradient-to-tl from-greens to-kok border-b-2 border-slate-500 text-white rounded-lg hover:opacity-85'>Contact me</Link>
         </div>
       </div>
     </div>
