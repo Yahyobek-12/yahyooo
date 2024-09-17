@@ -5,7 +5,7 @@ import darkImg from '../images/maxim-berg-3E2xgrlNXq4-unsplash.jpg'
 
 const HSec2 = () => {
   return (
-    <div className="w-[100%] ss:h-[80vh] h-[85vh] px-4 xl:mt-0 lg:mt-64 md:mt-20 sm:mt-[-4rem] mt-[-5rem]">
+    <div className="w-[100%] ss:h-[80vh] h-[85vh] px-4 xl:mt-0 lg:mt-64 md:mt-20 sm:mt-[-4rem] mt-0">
         <h1 className="md:text-5xl text-3xl font-bold md:ml-14 ml-6 uppercase">Latest <br /> <p className="ml-12 md:text-3xl text-xl text-gray-500">projects</p></h1>
 
         <div className="w-[100%] h-[60vh] lg:flex block items-center justify-between md:px-12 sm:px-4 px-2 mt-4">
