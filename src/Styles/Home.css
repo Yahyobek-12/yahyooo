@@ -1,0 +1,48 @@
+.home {
+    width: 100%;
+    height: 100%;
+}
+
+.home-page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-page-in h1, span {
+    font-family: Stanley;
+}
+
+.HSec1 h1 {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.scroll-h {
+    bottom: 50px;
+    right: 5px;
+    font-size: 20px;
+    position: absolute;
+    padding: 10px 20px;
+    transform: rotate(90deg);
+}
+
+#projects-card {
+    overflow: hidden;
+}
+
+#projects-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#projects-card:hover img {
+    cursor: pointer;
+    transform: scale(110%);
+}
+
+#projects-card:last-child:hover a {
+    transform: scale(110%);
+}

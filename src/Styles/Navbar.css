@@ -1,0 +1,13 @@
+nav {
+    background: #fff6;
+    backdrop-filter: blur(5px);
+}
+
+nav a.active {
+    color: #000;
+}
+
+#logo {
+    font-family: "Noto Sans", sans-serif;
+    letter-spacing: 2px;
+}
