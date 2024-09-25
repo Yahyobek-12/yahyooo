@@ -3,7 +3,7 @@ import { FaGithub, FaYoutube, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="w-[100%] h-[100px] bg-white ss:flex block items-center justify-between ss:py-2 px-8 ss:text-start text-center py-4">
+    <div className="w-[100%] h-[90px] bg-white ss:flex block items-center justify-between ss:py-2 px-8 ss:text-start text-center py-4 z-10">
         <h1>&copy; 2024 All right reserved</h1>
         <div className='ss:w-[100px] w-[100%] ss:mt-0 mt-4 flex items-center justify-center'>
           <div className='flex items-center'>

@@ -2,10 +2,7 @@ import '../Styles/Home.css'
 import Who from '../images/data-team.webp'
 import { Link } from 'react-router-dom'
 import { FaLongArrowAltRight } from "react-icons/fa";
-import HSec1 from '../Sections/HSec1';
-import HSec2 from '../Sections/HSec2';
-import HSec3 from '../Sections/HSec3';
-import HSec4 from '../Sections/HSec4';
+import { HSec1, HSec2, HSec3, HSec4 } from '../Constants'
 
 const Home = () => {
   return (

@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import agreementImg from '../images/agreement.jpg'
+import agreementImg from '../../images/agreement.jpg'
 
 const HSec4 = () => {
   return (

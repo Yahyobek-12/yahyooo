@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
-import { Navbar, Home } from './Constants'
+import { Navbar, Home, About } from './Constants'
 import 'animate.css'
 import Footer from './Components/Footer'
 
@@ -9,8 +9,9 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
+        <Route path='/about' element={<About />} />
       </Routes>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }

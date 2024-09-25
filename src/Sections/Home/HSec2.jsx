@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
-import nikeImg from '../images/macos-big-sur-stock-cold-winter-sedimentary-rocks-night-2820x2820-3767.jpg'
-import blueImg from '../images/macos-sonoma-6016x6016-11574.jpeg'
-import darkImg from '../images/maxim-berg-3E2xgrlNXq4-unsplash.jpg'
+import nikeImg from '../../images/macos-big-sur-stock-cold-winter-sedimentary-rocks-night-2820x2820-3767.jpg'
+import blueImg from '../../images/macos-sonoma-6016x6016-11574.jpeg'
+import darkImg from '../../images/maxim-berg-3E2xgrlNXq4-unsplash.jpg'
 
 const HSec2 = () => {
   return (

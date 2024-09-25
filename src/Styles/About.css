@@ -1,0 +1,7 @@
+.about {
+    font-family: stanley;
+}
+
+.about-content::-webkit-scrollbar {
+    width: 0;
+}

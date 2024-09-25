@@ -1,4 +1,4 @@
-import JoinUs from '../images/8161040.jpg'
+import JoinUs from '../../images/8161040.jpg'
 import { Link } from 'react-router-dom'
 
 const HSec3 = () => {
