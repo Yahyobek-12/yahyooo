@@ -1,6 +1,7 @@
 export { default as Navbar } from '../src/Components/Navbar'
 export { default as Home } from '../src/Components/Home'
 export { default as About } from '../src/Components/About'
+export { default as Services } from '../src/Components/Services'
 
 // export sections for Home page
 export { default as HSec1 } from './Sections/Home/HSec1'

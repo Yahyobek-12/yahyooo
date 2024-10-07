@@ -13,7 +13,7 @@ const Home = () => {
           <h1 className='md:text-9xl text-5xl font-bold mt-4 title animate__animated animate__fadeIn'>Yahyobek <span className='opacity-85'>Ergashboyev</span></h1>
           <h4 className='ml-4 font-semibold mt-4 text-3xl text-end animate__animated animate__fadeInDown'>Frontend web <span className='text-slate-500'>developer.</span></h4>
           <h5 className='text-start mb-4 text-xl max-w-[455px] font-bold animate__animated animate__zoomIn'>Mening yoshim 16 da va men hozirda andijonda yashayman <span className='text-blue-500'>Frontend</span> web developer...</h5>
-          <Link to="/"><button className='py-3 px-8 bg-gradient-to-tr from-black to-slate-400 text-white hover:scale-95 rounded-lg flex items-center animate__animated animate__fadeIn '>Read more <FaLongArrowAltRight className='ml-4 about-icon' /></button></Link>
+          <Link to="/about"><button className='py-3 px-8 bg-gradient-to-tr from-black to-slate-400 text-white hover:scale-95 rounded-lg flex items-center animate__animated animate__fadeIn '>Read more <FaLongArrowAltRight className='ml-4 about-icon' /></button></Link>
         </div>
       </div>
       <h3 className='scroll-h'>scroll</h3>
